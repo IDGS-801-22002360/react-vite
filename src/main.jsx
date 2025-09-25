@@ -6,7 +6,7 @@ import ReloadPrompt from './ReloadPrompt.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <ReloadPrompt></ReloadPrompt>
+    <ReloadPrompt/>
     <App />
   </StrictMode>,
 )
